@@ -24,7 +24,6 @@
     "modulePathIgnorePatterns": [
       "node_modules/react/lib/React.js",
       "node_modules/react/lib/ReactDOM.js",
-
       "node_modules/fbjs/lib/Map.js",
       "node_modules/fbjs/lib/Promise.js",
       "node_modules/fbjs/lib/fetch.js",
@@ -48,7 +47,6 @@
       "node_modules/fbjs/lib/someObject.js",
       "node_modules/fbjs/lib/sprintf.js",
       "node_modules/fbjs/lib/xhrSimpleDataSerializer.js",
-
       "downstream/core/CSSCore.js",
       "downstream/core/TouchEventUtils.js",
       "downstream/core/camelize.js",
@@ -68,7 +66,6 @@
       "downstream/core/invariant.js",
       "downstream/core/nativeRequestAnimationFrame.js",
       "downstream/core/toArray.js",
-
       "node_modules/jest-cli",
       "node_modules/react/dist"
     ],
@@ -109,12 +106,14 @@
     "art": "^0.10.0",
     "babel-core": "^6.1.20",
     "babel-plugin-external-helpers-2": "^6.1.4",
+    "babel-plugin-react-transform": "2.0.0-beta1",
     "babel-plugin-syntax-async-functions": "^6.0.14",
     "babel-plugin-syntax-class-properties": "^6.0.14",
     "babel-plugin-syntax-flow": "^6.0.14",
     "babel-plugin-syntax-jsx": "^6.0.14",
     "babel-plugin-syntax-trailing-function-commas": "^6.0.14",
     "babel-plugin-transform-class-properties": "^6.0.14",
+    "babel-plugin-transform-decorators": "^6.4.0",
     "babel-plugin-transform-es2015-arrow-functions": "^6.0.14",
     "babel-plugin-transform-es2015-block-scoping": "^6.0.18",
     "babel-plugin-transform-es2015-classes": "^6.1.2",
@@ -160,7 +159,6 @@
     "react": "^0.14.5",
     "react-timer-mixin": "^0.13.2",
     "react-transform-hmr": "^1.0.1",
-    "babel-plugin-react-transform": "2.0.0-beta1",
     "rebound": "^0.0.13",
     "regenerator": "^0.8.36",
     "sane": "^1.2.0",
