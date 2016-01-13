@@ -109,6 +109,7 @@
     "babel-plugin-react-transform": "2.0.0-beta1",
     "babel-plugin-syntax-async-functions": "^6.0.14",
     "babel-plugin-syntax-class-properties": "^6.0.14",
+    "babel-plugin-syntax-decorators": "^6.3.13",
     "babel-plugin-syntax-flow": "^6.0.14",
     "babel-plugin-syntax-jsx": "^6.0.14",
     "babel-plugin-syntax-trailing-function-commas": "^6.0.14",

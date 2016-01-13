@@ -6,6 +6,8 @@
     "syntax-async-functions",
     "syntax-class-properties",
     "syntax-trailing-function-commas",
+    "syntax-decorators",
+    "transform-decorators",
     "transform-class-properties",
     "transform-es2015-arrow-functions",
     "transform-es2015-block-scoping",
@@ -25,7 +27,6 @@
     "transform-react-jsx",
     "transform-regenerator",
     "transform-es2015-for-of",
-    "transform-decorators"
   ],
   "sourceMaps": false
 }
